@@ -1,5 +1,4 @@
 package db
-package main_test
 import (
 	"context"
 	"testing"
